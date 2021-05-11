@@ -9,18 +9,21 @@
 ### 2.1.2 공백, 줄바꿈, 제어 문자
 자바스크립트에서는 일반적인 공백(스페이스)뿐만 아니라 탭, 수직 탭, 줄바꿈 없는 공백 등등 있다.
 <br/>
-![image](https://user-images.githubusercontent.com/74044292/117639227-a714e880-b1be-11eb-93ae-75aa25670f23.png)
+![image](https://user-images.githubusercontent.com/74044292/117639227-a714e880-b1be-11eb-93ae-75aa25670f23.png) 
+
 <br/>
 
 ### 2.2 주석
 자바스크립트는 두 가지 형태의 주석을 지원한다.
 
 ![image](https://user-images.githubusercontent.com/74044292/117639930-6bc6e980-b1bf-11eb-90f5-c514529c9ef2.png)
+
 <br/>
 
 ### 2.3 리터럴
 리터럴은 프로그램에 직접 나타나는 데이터 값이다. 다음의 코드는 모두 리터럴 이다.
 ![image](https://user-images.githubusercontent.com/74044292/117640679-35d63500-b1c0-11eb-8179-a233c063a7d1.png)
+
 <br/>
 
 ### 2.4 식별자와 예약어
